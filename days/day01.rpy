@@ -25,7 +25,7 @@
 label day1:
   #Day 1
   calendar day 1
-  "The sound of the wake-up bell is faint in my room. Sometimes I sleep right through it, but today it wakes me up. I rub my eyes, getting ready for the day with a big, wide stretch."
+  "The sound of the wake-up bell is faint in my room. Sometimes I sleep right through it, but today it woke me up. I rub my eyes, getting ready for the day with a big, wide stretch."
 
   a pajamas sleepy "-yawn-"
 
@@ -55,7 +55,7 @@ label hands:
  
   "I often don't do figure drawing, and hands are even more frustrating to get it right. My warm-up sketches look more like noodles for now. Fingers curl unnaturally or separate uncomfortably."
   "It's only practice, but my eyebrows scrunch together as I turn my eyes back and forth between my own hand and the paper."
-  "It feels nice once I can produce something at least recognizable. But soon enough the breakfast bell rings and I have to put away my pencils and turn instead to my rumbling stomach."
+  "It feels nice once I can produce something at least recognizable. But soon enough the breakfast bell rings and I have to put away my pencils and tend to my rumbling stomach."
 
   jump breakfastday1
  
@@ -71,10 +71,10 @@ label coloringbook:
 
 label dream:
 
-  "I had a strange dream last night. I usually don't remember much about them, but I remember this one even though I don't understand it." 
+  "I had a strange dream last night. I usually don't remember much about them, but I do remember this one, even though I don't understand it." 
   "It had something to do with going outside. Maybe I'm just really excited for the field trip we're having in a week or so."
   "I color haphazardly on a blank page, a large swath of blue and another of green. Something red in the middle."
-  "It doesn't make much sense, but it's just warmup."
+  "It doesn't make much sense, but it's just a warmup."
 
   jump breakfastday1
 
@@ -134,8 +134,8 @@ label breakfastday1:
   play music musiclukas loop
   
   "Every weekday when I can, at exactly 11:45 AM I trot up the north stairwell and down the office hallway to room 244, where I have lunch with Dr. Kronauer." 
-  "Dr. Kronauer has been my friend since I became Staff Companion ten years ago."
-  "He's the head of the pharmaceutical department and sometimes has to test his medicine on me. I don't mind a lot of times. And every day we get to talk and share lunch with each other." 
+  "Dr. Kronauer has been my friend since I became the staff companion ten years ago."
+  "He's the head of the pharmaceutical department and sometimes has to test his medicine on me. I don't mind a lot of the time. Every day we get to talk and share lunch with each other." 
   "I wonder what he's brought today. Technically I don't think I'm supposed to have food from the outside, but Dr. Kronauer wouldn't let me get in trouble."
 
   a sleepy "-yawn-"
@@ -173,7 +173,7 @@ label breakfastday1:
 
   l "Mmhm. Dr. Collbreed's replacement. He'll be the new medical doctor for you all."
 
-  "That's right. We had Dr. Collbreed's retirement party the week before last. Maybe a new face will do everyone some good. Dr. Kronauer echoes my thoughts."
+  "That's right. We had Dr. Collbreed's retirement party a couple weeks ago. Maybe a new face will do everyone some good. Dr. Kronauer echoes my thoughts."
 
   l "I think the kids will be very happy to have someone new down there. Maybe it'll make your job a little easier too."
 
@@ -204,7 +204,7 @@ label breakfastday1:
   "Every three months, female Felixes go into heat for around six or seven days. Sometimes it's like a tingling that feels nice, but other times it hurts so badly it feels like nothing else exists."
   "It only happens to mature Felixes, so I don't have to worry about the kids while they're here."
   "But it really is a pain for me to go through it."
-  "I'm not a girl, but I was born female, and it's the worst."
+  "I'm a boy, but I was born female and still go into heat. It's the worst."
 
   show lukas sad smile
   with dissolve
@@ -212,7 +212,7 @@ label breakfastday1:
   l "I can't tell you. You know that. It would-"
   a "It would 'ruin the test', I know."
 
-  "But my heart is still fluttering! Dr. Kronauer is always the one to help me with my heat when I really need it, but if he could make a medicine that helps everyone, I would be so happy!"
+  "But my heart is still fluttering! Dr. Kronauer is always the one to help me with my heat when I really need it, but if he could make a new medicine that helps everyone, I would be so happy!"
 
   l "Well, give me your bowl, don't you want to go back downstairs?"
   a "Huh?"
@@ -229,7 +229,7 @@ label breakfastday1:
   show lukas happy
   with dissolve
 
-  "We walk down the hall to the break room to wash out the bowls and clean the forks. A few employees stop to say hello and pet my head a little."
+  "We walk down the hall to the break room to wash out the bowls and clean the forks. A few employees stop to say 'hello' and pet my head a little."
 
   a happy "Hello!"
   o "Addison, you're cute as ever today!"
@@ -269,11 +269,11 @@ label breakfastday1:
 
   a thinking "..."
 
-  "Class has already started. The classes is only for 5-12-year-olds kittens, since most Felixes are adopted by the time they turn 12."
-  "They teach a lot of things, how to read and how to write are important skills to help out our future Masters as best we can. So is math, which is today's class."
-  "There are other, more fun classes, like physical education, dance class, and music class. And harder classes, like how how the body works, how to cook, and so on."
-  "Really, they teach us how to be good Felixes so that the kittens can be adopted and serve their Masters and make them happy."
-  "Today it's strange when I walk in and see Pumpkin sitting at the back of the class."
+  "Class has already started. The classes are only for 5-12-year-old kittens, since everyone graduates from the care center to the adoption center when they're 4. Then most of them are adopted by the time they're 12."
+  "They teach a lot of things, knowing how to read and how to write are important skills to help out our future masters as best we can. The kids are working on math today--it's important, too."
+  "There are other, more fun classes, like physical education, dance class, and music class. There are also harder classes, like how how the body works, how to cook, and so on."
+  "Really, they teach us how to be good Felixes so that the kittens can be adopted and serve their masters and make them happy."
+  "It's strange when I walk in today and see Pumpkin sitting at the back of the class."
 
   show pumpkin thinking
   with easeinleft
@@ -307,7 +307,7 @@ label breakfastday1:
   c "Uh... Two."
   a "Yep, now write that down."
   c "Seven and two? 8x9 is seven and two?"
-  a "No, it's SevenTY two."
+  a "No, it's Seven-TY two."
 
   hide mathclass onlayer event
   with dissolve
@@ -316,13 +316,13 @@ label breakfastday1:
   show charlie excited
 
   c "Really??"
-  a "Yep. And it works for any number times nine. You can try it with the other equations too, okay?"
+  a "Yep. And it works for any number multiplied by nine. You can try it with the other equations too, okay?"
   c "Okay!"
 
   hide charlie
   with easeoutleft
 
-  "I help out a few other kittens with a few other questions, some harder than others. But, when class gets out at five I can't help but try to and find Pumpkin to talk to him."
+  "I help out a few other kittens with a few more questions, some harder than others. But when class gets out at five, I can't help but try to and find Pumpkin to talk to him."
 
   a surprised "Huh?"
 
@@ -334,7 +334,7 @@ label breakfastday1:
   scene bg cafeteria
   with dissolve
 
-  "Today's dinner is dinner rolls, meatloaf with tomato sauce, and steamed vegetables. The smell of the tomato sauce and pepper tickles at my nose, but my tummy doesn't mind at all."
+  "Today's dinner is dinner rolls, meatloaf with tomato sauce, and steamed vegetables. The smell of the tomato sauce and pepper tickles my nose, but my tummy doesn't mind at all."
   "The children seem pretty tired after two of their friends were adopted two days in a row. It takes a lot out of them. It takes a lot out of me too."
 
   scene bg hallway1
@@ -365,7 +365,7 @@ label breakfastday1:
   a pajams happy "-yawn-"
 
   "Today was… okay. I avoided the kittens more than I should have. But Dr. Kronauer tried to cheer me up."
-  "Oh, right--the new doctor will be here tomorrow. I wonder what he'll be like. I bet he’s cute. I should get plenty of sleep so I’ll be ready to meet with him~"
+  "Oh, right--the new doctor will be here tomorrow. I wonder what he'll be like. I hope he’s cute. I should get plenty of sleep so I’ll be ready to meet with him~"
 
   scene bg bedroomdark
   with dissolve

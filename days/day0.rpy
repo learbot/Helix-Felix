@@ -63,7 +63,7 @@ label day0:
   with easeoutright
 
   "There's something so charming about them. I can never stay mad at them."
-  "All of the kids here are like that."
+  "All the kids here are like that."
   "It's hard to be a Big Brother for all 87 siblings, but the effort is worth every bit. Whenever they smile, I would always smile back."
   "The smallest ones like to play the most, and it's important that I tire them out."
 
@@ -114,7 +114,7 @@ label day0:
 
   a "Simon says... hug your tummy!"
 
-  "It always makes my heart feel small and tight. I'm happy for them. But at the same time, I'm jealous of them."
+  "It always makes my heart feel small and tight, but I'm happy for them. At the same time, I'm jealous of them, too."
 
   a "Simon says... jump up and down!"
 
@@ -176,7 +176,7 @@ label day0:
  
   "The smell of warm vegetables and a wonderful sauce surrounds the cafeteria. Now that everyone is out of class, all of us are here together."
   "Big mounds of mashed potatoes, gravy, chicken, and green beans fill everyone's plates. The chatter echoes off the walls into a comforting hum as I sit quietly and eat."
-  "We are so lucky to be so well taken care of, and the only thing the humans ask of us is to live with them and love them. Felixes must have the best lives in the whole world."
+  "We're so lucky to be so well taken care of, and the only thing the humans ask of us is to live with them and love them. Felixes must have the best lives in the whole world."
   "After dinner, the kids line up again and head back to the barracks for showers and bedtime."
 
   scene bg hallway1
@@ -187,7 +187,7 @@ label day0:
   $ persistent.bg_barracks=True
  
   "With a lot of squabbling and fussing, they pick out a book for me to read to them before bed it looks like they pick a silly story about a stuffed bear and his friends having an adventure." 
-  "This time, almost everyone is listening to me, wiggling their toes and their tails under the covers while I try to make silly voices for each of the characters."
+  "This time, almost everyone is listening to me, wiggling their toes and their tails under the covers while I try to make silly voices for each character."
   "When the story comes to a close, I give out a soft 'Goodnight' and turn out the barrack's lights."
 
   scene bg hallway1
@@ -201,7 +201,7 @@ label day0:
 
   "My own room feels cozy compared to the large and open barracks. It took me a while to get used to, but now that I've settled in I couldn't imagine leaving." 
   "I have a few pictures taped to the walls, both mine and a few of the kitten's."
-  "My desk is a mess of papers and colored pencils, a row of coloring books pushed to the side." 
+  "My desk is a mess of papers and colored pencils, even a row of coloring books pushed to the side." 
   a pajamas happy "Hmm...~"
   "I would usually use this time to draw for myself, but today has been long and tiring. I spent it almost entirely with the children."
   "With a big yawn, I turn out the lights and crawl under my covers."
